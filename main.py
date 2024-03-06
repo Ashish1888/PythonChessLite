@@ -7,7 +7,7 @@ pygame.init()
 clock = pygame.time.Clock()
 
 win = pygame.display.set_mode((500, 500))
-pygame.display.set_caption('My-PyChess')
+pygame.display.set_caption('PythonChess')
 
 # Initialize chess variables
 side = 0
