@@ -2,6 +2,9 @@ It is just plain and simple chess under 350 lines of code - Although it still su
 
 It is perfect for basics of a chess app.
 
+[![Watch the Video](https://github.com/Ashish1888/PythonChessLite/blob/master/CHESS.png)](https://github.com/Ashish1888/PythonChessLite/blob/master/Recording%20OF%20PythonChess.mp4)
+
+
 ## Resource Credits
 I have used "piecesprite.png" in this program, which is not created by me. All other resources in this program are created by me.
 
